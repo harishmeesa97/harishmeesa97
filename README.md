@@ -1,6 +1,6 @@
 Hi, I'm Harish Meesa 👋
 
-Data Engineer | SQL | Python | Cloud | AI/ML
+Aspiring Data Engineer | SQL | Python | ETL | Cloud | AI/ML
 
 I'm an Information Systems graduate focused on building reliable
 data pipelines, cloud data solutions, and AI-ready data infrastructure.
@@ -16,6 +16,21 @@ data pipelines, cloud data solutions, and AI-ready data infrastructure.
 - Databricks
 - AI/ML Data Pipelines
 - Generative AI & RAG
+
+## 💼 Experience
+
+### Engineer — Movate | Google Client
+- Developed SQL-based data validation processes using PostgreSQL to identify data inconsistencies, duplicates, and missing records.
+- Performed source-to-target data reconciliation to verify data accuracy, completeness, and consistency.
+- Monitored enterprise data pipelines and scheduled ETL workflows to validate successful data processing and movement.
+- Created SQL queries for data extraction, transformation, validation, and analysis.
+- Automated PostgreSQL backup and maintenance workflows to improve database operations.
+- Participated in ETL/ELT data integration and implemented data-quality validation checks.
+
+### Proctor — Examity
+- Managed secure online examination workflows for students across global locations.
+- Performed identity verification and examination compliance checks.
+- Maintained accurate examination records and followed standardized data and security procedures.
 
 ## Technical Skills
 
